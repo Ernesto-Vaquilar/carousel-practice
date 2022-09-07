@@ -1,9 +1,9 @@
-# Bootstrap Template
+# Carousel Practice
 ## Description
-Bootstrap template is used for other projects as a boilerplate.
+This is an example of using the Carousel component from Bootstrap v5.2
 
 ## Contributing
-Issue Tracker: github.com/Ernesto-Vaquilar/bootstrap-template/issues
+Issue Tracker: https://github.com/Ernesto-Vaquilar/carousel-practice/issues
 
 ## Licensing
 MIT
